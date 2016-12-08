@@ -8,3 +8,4 @@ Requisito
 
 Captura
 ===
+[mi imagen](/img/captura.png)
